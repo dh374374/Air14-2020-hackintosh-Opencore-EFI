@@ -29,9 +29,8 @@
 
 ## 截图
 
-![WX20231022-153038.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/fb60e13d-bf27-4d51-a3e5-36d553c44d98/64c31b3a-6f2a-4030-b510-118a5f53f0e6/WX20231022-153038.png)
-
-![WX20231022-153136.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/fb60e13d-bf27-4d51-a3e5-36d553c44d98/bd979d6c-b261-45e7-b7bd-76479779f0cd/WX20231022-153136.png)
+![image](https://github.com/dh374374/Air14-2020-hackintosh-Opencore-EFI/blob/main/img/WX20231022-153038.png)
+![image](https://github.com/dh374374/Air14-2020-hackintosh-Opencore-EFI/blob/main/img/WX20231022-153136.png)
 
 ---
 
