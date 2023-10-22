@@ -29,8 +29,8 @@
 
 ## 截图
 
-![image](https://github.com/dh374374/Air14-2020-hackintosh-Opencore-EFI/blob/main/img/WX20231022-153038.png)
-![image](https://github.com/dh374374/Air14-2020-hackintosh-Opencore-EFI/blob/main/img/WX20231022-153136.png)
+![image](https://raw.githubusercontent.com/dh374374/Air14-2020-hackintosh-Opencore-EFI/main/img/WX20231022-153038.png)
+![image](https://raw.githubusercontent.com/dh374374/Air14-2020-hackintosh-Opencore-EFI/main/img/WX20231022-153136.png)
 
 ---
 
